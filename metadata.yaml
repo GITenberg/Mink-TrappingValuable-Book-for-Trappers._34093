@@ -1,0 +1,33 @@
+_repo: Mink-TrappingValuable-Book-for-Trappers._34093
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34093-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harding, A. R. (Arthur Robert)
+    alias: Harding, Arthur Robert
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '36678'
+    url: http://www.gutenberg.org/2009/agents/36678
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Trapping
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34093'
+  lccn: 06043788
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Mink trapping'
+title: "Mink Trapping: A Book of Instruction Giving Many Methods of Trapping\r\nA\
+  \ Valuable Book for Trappers."
+url: http://www.gutenberg.org/ebooks/34093
